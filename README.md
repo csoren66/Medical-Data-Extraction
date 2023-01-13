@@ -1,4 +1,6 @@
 # Medical-Data-Extraction
+![data](https://user-images.githubusercontent.com/67580321/212330776-cb2271e9-a2a0-40d5-9046-7f82ec07d75a.jpeg)
+
 
 ## Problem statement
 

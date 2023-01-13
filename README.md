@@ -25,6 +25,7 @@ Here, we are using the Python programming language and pytesseract google librar
 - FastApi
 
 ## Workflow
+![workflow](https://user-images.githubusercontent.com/67580321/212330283-97ea8bae-3854-4020-a8f0-d482d258fe91.jpg)
 
 
 ---
